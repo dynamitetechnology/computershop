@@ -12,3 +12,17 @@
 	  display:none;
   }
 }
+
+.homepage_banner{
+	background: url("https://cwsmgmt.corsair.com/hybris/tlc/cases/tlc_banner_cases_5000x.jpg");
+	height: 80vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.bannertext{
+	position: absolute;
+	top: 150px;
+	color: rgb(255, 255, 255);
+}
