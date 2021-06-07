@@ -26,3 +26,40 @@
 	top: 150px;
 	color: rgb(255, 255, 255);
 }
+.about_us{
+	padding: 15px;
+
+}
+
+.about_us h1{
+	border-bottom: 2px solid red;
+	display: inline-block;
+}
+
+.page_banner{
+	background: url("../image/hardwarerepair.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 150px;
+}
+.pageheading{
+	color:rgb(255, 255, 255)
+}
+.pageheading h1{
+	border-bottom: 2px solid red;
+	display: inline-block;
+}
+
+.footer{
+	background:#6610f2;
+	padding:15px;	
+	color:rgb(255, 255, 255);
+}
+.footerLinks{
+	list-style: none;
+	padding: 20px 5px;
+}
+
+.footerLinks li{
+padding: 5px;
+}
